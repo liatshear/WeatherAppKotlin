@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="nothing">עדיין לא הוספת מועדפים</string>
+    <string name="click">לחץ כדי לראות את המיקום שלך</string>
+    <string name="seeFavourites">לחץ כדי לראות את המועדפים שלך</string>
+    <string name="seeCity">בחר את העיר שלך</string>
+    <string name="seeWeather">לראות את מזג האוויר</string>
+    <string name="netAvail">רשת זמינה</string>
+    <string name="today">היום</string>
+    <string name="tomorrow">מָחָר</string>
+    <string name="nextDay">היום שאחרי</string>
+</resources>

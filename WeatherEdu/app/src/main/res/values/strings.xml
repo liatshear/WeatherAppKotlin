@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name" translatable="false">WeatherEdu</string>
+    <string name="share" translatable="false">Share Location</string>
+    <string name="nothing">You have not added any favourites yet</string>
+    <string name="click">Click to see your location</string>
+    <string name="seeFavourites">Add this location to favourites</string>
+    <string name="seeCity">Search your city</string>
+    <string name="seeWeather">See the weather</string>
+    <string name="netAvail">Network Available</string>
+    <string name="netUnavail" translatable="false">Network Unavailable</string>
+    <string name="today">Today</string>
+    <string name="tomorrow">Tomorrow</string>
+    <string name="nextDay">The next day</string>
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="pic" translatable="false">Phone image</string>
+    <string name="Sunny" translatable="false">Sunny</string>
+    <string name="Rain" translatable="false">Raining</string>
+    <string name="Wind" translatable="false">Windy</string>
+    <string name="Cold" translatable="false">Cold</string>
+    <string name="Snow" translatable="false">Snow</string>
+    <string name="returnTo" translatable="false">Go back</string>
+    <string name="Storm" translatable="false">Storming</string>
+    <string name="Hail" translatable="false">Hail</string>
+    <string name="Breezy" translatable="false">Breezy</string>
+    <string name="Overcast" translatable="false">Overcast</string>
+    <string name="SunnyA" translatable="false">Go for a walk or play in the park</string>
+    <string name="RainA" translatable="false">Grab your umbrella! Dance in the rain</string>
+    <string name="WindA" translatable="false">Lets go fly a kite..</string>
+    <string name="ColdA" translatable="false">Better take a coat with you</string>
+    <string name="SnowA" translatable="false">Great time to build a snowman</string>
+    <string name="StormA" translatable="false">Probably a good idea to watch a movie</string>
+    <string name="HailA" translatable="false">Stay indoors!</string>
+    <string name="BreezyA" translatable="false">Get your scarf and go for a walk</string>
+    <string name="OvercastA" translatable="false">Dont forget to wear sunscreen</string>
+    <string name = "next" translatable="false">Next page</string>
+    <string name = "back" translatable="false">Go back</string>
+    <string name = "weatAct" translatable="false">See Weather Activities</string>
+    <string name = "fave" translatable="false">See your favourites!</string>
+    <string name = "msg" translatable="false"> Sorry, the service seems to be down at the moment,
+    please try again later.</string>
+
+
+
+</resources>

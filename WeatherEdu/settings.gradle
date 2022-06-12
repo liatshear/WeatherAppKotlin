@@ -1,0 +1,24 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        resolutionStrategy {
+            eachPlugin {
+                if( requested.id.id == 'dagger.hilt.android.plugin') {
+                    useModule("com.google.dagger:hilt-android-gradle-plugin:2.39.1")
+                }
+            }
+        }
+
+        google()
+        mavenCentral()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "WeatherEdu"
+include ':app'
